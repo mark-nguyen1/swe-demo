@@ -10,3 +10,6 @@ This ia a list:
 * third item
 
 I added this locally 
+
+Use git pull to grab remote to local!
+push to do the oppposite (after staging)
